@@ -1,8 +1,5 @@
-# ScriptPowshellWsl
+# ScriptPowerShellWsl
 Script PowerShell pour la gestion de Linux Wsl sur Windows
-
-
-<br>
 
 <hr>
 
